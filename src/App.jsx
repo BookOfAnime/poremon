@@ -10,7 +10,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <Canvas style={{width: "100vw", height: "100vh"}} camera={{ position: [0, 0, 4], fov: 45 }}>
+    <Canvas style={{width: "100vw", height: "100vh"}} camera={{ position: [2, 4, 6], fov: 45 }}>
       <OrbitControls 
        />
       {/* THREE POINTS LIGHTING */}
