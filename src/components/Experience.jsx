@@ -12,7 +12,7 @@ const Experience = () => {
         fontSize={0.5}
         font="./Atop_Regular.json"
       >
-        Poremon 
+        Poregon 
       
         <meshNormalMaterial />
       </Text3D><Text3D
